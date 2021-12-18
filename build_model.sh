@@ -1,4 +1,4 @@
 #!/bin/bash
-
-python3 twitterAPI.py
+VAR="$1"
+python3 twitterAPI.py $VAR
 
